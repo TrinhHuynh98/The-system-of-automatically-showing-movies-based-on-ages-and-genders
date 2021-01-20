@@ -1,0 +1,2 @@
+# The-system-of-automatically-showing-movies-based-on-ages-and-genders
+The age and gender classification model is built based on Convolution Neuron Network architechture in this thesis. The model was trained with the UTKFace dataset, which included 20,000 face images with captions about ages, genders and ethnicities. Movies are played based on gender and different ages: under 13, under 16, under 18, and general audiences
